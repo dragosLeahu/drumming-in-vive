@@ -1,6 +1,9 @@
 # drumming-in-vive
 The final project for Mixed Reality course. By Livia Ana Pascu, Antonio Stefan Chiriac and Dragos Leahu
 
+# Youtube video
+https://youtu.be/_SHzsUU9asI
+
 # Controls
 Controller Trackpad Press Up - Change controller model.  
 Controller Trigger - Kick drum sound (only with Drum Stick model).  
